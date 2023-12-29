@@ -1,32 +1,24 @@
 # Word-count
 ## AIM:
 To write a python program for getting the word count from a text.
-## EQUIPEMENT'S REQUIRED: 
-PC
-Anaconda - Python 3.7
 ## ALGORITHM: 
 ### Step 1:
 Start the program.
-
-### Step 2:
-Give the input string.
-
-### Step 3:
+### Step 2: 
+ Give the input string.
+### Step 3: 
 Print the original string.
-
-### Step 4:
+### Step 4:  
 using len(test_string.split()) get the result.
-
-### Step 5:
+### Step 5: 
 Print the word count.
-
-### Step 6:
+### Step 6: 
 End the program.
-
 ## PROGRAM:
+```python
 #python program for word count
-#Developed by : Logesh.N.A
-#Reference no : 23012242
+#Developed by : RIYA P L
+#Reference no : 23005672
 
 def wordcount(filename):
 count=0
