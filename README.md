@@ -17,8 +17,8 @@ End the program.
 ## PROGRAM:
 ```python
 #python program for word count
-#Developed by : RIYA P L
-#Reference no : 23005672
+#Developed by : Logesh.N.A
+#Reference no : 23012242
 
 def wordcount(filename):
 count=0
